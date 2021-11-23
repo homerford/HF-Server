@@ -1,0 +1,17 @@
+Initial Connect:
+    1. mysql -u root -p
+    2. enter password (msql@1O)
+    3. use project_db
+    4. \q (to quit)
+
+Display Tables:
+SHOW TABLES;
+
+Delete Table:
+DROP TABLE example_tbl;
+
+Clear Table:
+TRUNCATE TABLE example_tbl;
+
+Add Column to Table:
+ALTER TABLE example_tbl ADD COLUMN new_column INT;

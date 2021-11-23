@@ -1,0 +1,73 @@
+11/22/2021 20:22:6 [Database connection successful]
+11/22/2021 20:22:6 [Express listening on port 3040]
+11/22/2021 20:30:31 [Database connection successful]
+11/22/2021 20:30:31 [Express listening on port 3040]
+11/22/2021 20:32:4 [Database connection successful]
+11/22/2021 20:32:4 [Express listening on port 3040]
+11/22/2021 20:38:49 [Database connection successful]
+11/22/2021 20:38:49 [Express listening on port 3040]
+11/22/2021 20:39:40 [Request GET] <Landing Page>
+11/22/2021 20:54:44 [Request POST] <Users: Add User>
+11/22/2021 20:54:44 [Request GET] <Email: Send Verification>
+11/22/2021 20:55:44 [Database connection successful]
+11/22/2021 20:55:44 [Express listening on port 3040]
+11/22/2021 20:56:50 [Request POST] <Users: Login User>
+11/22/2021 20:57:33 [Database connection successful]
+11/22/2021 20:57:33 [Express listening on port 3040]
+11/22/2021 20:57:59 [Request POST] <Users: Add User>
+11/22/2021 20:57:59 [Request GET] <Email: Send Verification>
+11/22/2021 20:58:6 [Request GET] <Email: Verify>
+11/22/2021 20:59:12 [Database connection successful]
+11/22/2021 20:59:12 [Express listening on port 3040]
+11/22/2021 20:59:35 [Request POST] <Users: Login User>
+11/22/2021 21:0:21 [Request GET] <Users: Get All Users>
+11/22/2021 21:0:23 [Request GET] <Users: Get All Users>
+11/22/2021 21:1:7 [Request GET] <Users: Get All Users>
+11/22/2021 21:1:10 [Request POST] <User: Edit User>
+11/22/2021 21:1:10 [Request GET] <Users: Get All Users>
+11/22/2021 21:1:16 [Request GET] <Users: Get All Users>
+11/22/2021 21:1:28 [Request POST] <Users: Login User>
+11/22/2021 21:1:31 [Request GET] <Feedback: Get All>
+11/22/2021 21:1:31 [Request GET] <Users: Get All Users>
+11/22/2021 21:1:31 [Request POST] <Report: Download>
+11/22/2021 21:1:31 [Request POST] <Report: Download>
+11/22/2021 21:3:9 [Request GET] <Feedback: Get All>
+11/22/2021 21:3:9 [Request GET] <Users: Get All Users>
+11/22/2021 21:3:9 [Request POST] <Report: Download>
+11/22/2021 21:3:9 [Request POST] <Report: Download>
+11/22/2021 21:3:11 [Request POST] <Report: Download>
+11/22/2021 21:3:11 [Request GET] <Feedback: Get All>
+11/22/2021 21:3:11 [Request POST] <Report: Download>
+11/22/2021 21:3:11 [Request GET] <Users: Get All Users>
+11/22/2021 21:3:31 [Request GET] <Feedback: Get All>
+11/22/2021 21:3:31 [Request GET] <Users: Get All Users>
+11/22/2021 21:3:31 [Request POST] <Report: Download>
+11/22/2021 21:3:31 [Request POST] <Report: Download>
+11/22/2021 21:3:53 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:3:53 [Request GET] <Closure: Getall>
+11/22/2021 21:3:53 [Request GET] <Users: Get All Users>
+11/22/2021 21:3:53 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:6 [Request GET] <Closure: Add>
+11/22/2021 21:4:7 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:7 [Request GET] <Closure: Getall>
+11/22/2021 21:4:7 [Request GET] <Users: Get All Users>
+11/22/2021 21:4:7 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:19 [Request POST] <Reservations: Add Reservation>
+11/22/2021 21:4:19 [Request POST] <Email: Send Reservation Alert>
+11/22/2021 21:4:19 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:19 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:31 [Request GET] <Closure: Getall>
+11/22/2021 21:4:31 [Request GET] <Users: Get All Users>
+11/22/2021 21:4:31 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:31 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:33 [Request GET] <Reservations: Get All User Reservations>
+11/22/2021 21:4:33 [Request GET] <Closure: Getall>
+11/22/2021 21:4:33 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:33 [Request GET] <Users: Get All Users>
+11/22/2021 21:4:33 [Request GET] <Reservations: Get All Reservations>
+11/22/2021 21:4:39 [Request GET] <Reservations: Get All User Reservations>
+11/22/2021 21:18:45 [Request GET] <Users: Get All Users>
+11/22/2021 21:18:45 [Request GET] <Feedback: Get All>
+11/22/2021 21:18:45 [Request POST] <Report: Download>
+11/22/2021 21:18:45 [Request POST] <Report: Download>
+11/22/2021 21:18:52 [Request GET] <Reservations: Get All User Reservations>

@@ -1,0 +1,16 @@
+// Add all to local repo
+git add .
+
+// Commit local repo with message
+git commit -m "Initial Commit"
+
+// Push to remote repo
+git push -u origin master --force
+
+// Pull changes
+git pull
+
+// Pull a large amount of changes that will require overwriting
+git fetch origin master
+git reset --hard FETCH_HEAD
+git clean -df

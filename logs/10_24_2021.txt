@@ -1,0 +1,2 @@
+10/24/2021 23:11:59 [Database connection successful]
+10/24/2021 23:11:59 [Express listening on port 3040]

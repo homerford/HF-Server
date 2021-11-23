@@ -1,0 +1,20 @@
+11/3/2021 18:34:8 [Database connection successful]
+11/3/2021 18:34:8 [Express listening on port 3040]
+11/3/2021 18:34:35 [Request POST] <Customers: Login Customer>
+11/3/2021 18:34:37 [Request GET] <Logs: Get All>
+11/3/2021 18:34:37 [Request GET] <Customers: Get All Customers>
+11/3/2021 18:37:16 [Request POST] <Report: Download>
+11/3/2021 18:37:20 [Request POST] <Report: Download>
+11/3/2021 18:52:21 [Request POST] <Report: Download>
+11/3/2021 18:52:37 [Request GET] <Logs: Get All>
+11/3/2021 18:52:37 [Request GET] <Customers: Get All Customers>
+11/3/2021 18:52:46 [Request GET] <Logs: Get One>
+11/3/2021 18:52:48 [Request GET] <Logs: Get All>
+11/3/2021 18:52:51 [Request GET] <Reservations: Get All Reservations>
+11/3/2021 18:52:57 [Request GET] <Customers: Get All Customers>
+11/3/2021 18:52:57 [Request GET] <Logs: Get All>
+11/3/2021 18:53:3 [Request GET] <Logs: Get All>
+11/3/2021 18:53:3 [Request GET] <Customers: Get All Customers>
+11/3/2021 18:53:8 [Request GET] <Reservations: Get All Reservations>
+11/3/2021 18:53:19 [Request GET] <Logs: Get All>
+11/3/2021 18:53:19 [Request GET] <Customers: Get All Customers>

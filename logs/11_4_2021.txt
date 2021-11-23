@@ -1,0 +1,50 @@
+11/4/2021 18:23:27 [Database connection successful]
+11/4/2021 18:23:27 [Express listening on port 3040]
+11/4/2021 18:25:3 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:27:41 [Request POST] <Customers: Login Customer>
+11/4/2021 18:27:46 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:27:46 [Request GET] <Logs: Get All>
+11/4/2021 18:27:56 [Request GET] <Logs: Get One>
+11/4/2021 18:28:0 [Request GET] <Logs: Get All>
+11/4/2021 18:28:15 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:28:43 [Request GET] <Logs: Get All>
+11/4/2021 18:28:43 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:29:2 [Request POST] <Report: Download>
+11/4/2021 18:29:7 [Request POST] <Report: Download>
+11/4/2021 18:29:14 [Request POST] <Report: Download>
+11/4/2021 18:29:17 [Request POST] <Report: Download>
+11/4/2021 18:40:48 [Request POST] <Report: Download>
+11/4/2021 18:40:50 [Request GET] <Logs: Get All>
+11/4/2021 18:40:50 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:42:17 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:42:34 [Request GET] <Logs: Get All>
+11/4/2021 18:42:34 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:44:3 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:45:6 [Request POST] <Customers: Login Customer>
+11/4/2021 18:45:12 [Request GET] <Logs: Get All>
+11/4/2021 18:45:12 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:40 [Request GET] <Logs: Get All>
+11/4/2021 18:45:40 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:41 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:41 [Request GET] <Logs: Get All>
+11/4/2021 18:45:43 [Request GET] <Logs: Get All>
+11/4/2021 18:45:43 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:44 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:44 [Request GET] <Logs: Get All>
+11/4/2021 18:45:45 [Request GET] <Logs: Get All>
+11/4/2021 18:45:45 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:47 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:45:47 [Request GET] <Logs: Get All>
+11/4/2021 18:45:48 [Request GET] <Logs: Get All>
+11/4/2021 18:45:48 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:47:13 [Request POST] <Report: Download>
+11/4/2021 18:47:17 [Request POST] <Report: Download>
+11/4/2021 18:47:35 [Request POST] <Report: Download>
+11/4/2021 18:47:51 [Request GET] <Logs: Get All>
+11/4/2021 18:47:51 [Request GET] <Customers: Get All Customers>
+11/4/2021 18:47:55 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:48:43 [Request POST] <Reservations: Add Reservation>
+11/4/2021 18:48:43 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 18:48:54 [Request POST] <Reservations: Add Reservation>
+11/4/2021 18:48:54 [Request GET] <Reservations: Get All Reservations>
+11/4/2021 22:2:35 [Request GET] <Reservations: Get All Reservations>
